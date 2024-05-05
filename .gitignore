@@ -77,6 +77,5 @@ conftest.dir/*
 confdefs.h
 *.xcuserdatad
 .idea
-cmake-build-debug
 *.o.tmp
 xcode/*
